@@ -4,7 +4,6 @@ import Layout from "./Layout";
 import Home from "./Home";
 import JogoLista from "./JogoLista";
 import Ranking from "./Ranking";
-//* teste
 export default function App() {
   return (
     <Routes>
